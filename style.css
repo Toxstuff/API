@@ -16,6 +16,6 @@
     margin: 20px;
     display: flex;
     justify-content: space-between;
-    align-items: left;
-    text-align: left;
+    align-items: center;
+    text-align: center;
   }
