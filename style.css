@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+
+  }
+  .btn{
+    border: 1px solid #444;
+    align-items: left;
+    text-align: center;
+  }
+
+  .api {
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 0 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    text-align: left;
+  }
